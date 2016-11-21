@@ -1,0 +1,5 @@
+> cd into the project and type :  
+
+`python -m SimpleHTTPServer`
+
+> Run the browser and type localhost:8000 to see it locally

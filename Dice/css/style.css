@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: firebrick;
+	width: 100%;
+	height: 100%;
+}
+
+canvas {
+	display: block;
+
+}
+
+#container {
+
+    background-color: transparent;
+}
