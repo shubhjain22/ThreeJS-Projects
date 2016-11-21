@@ -1,5 +1,5 @@
 # ThreeJS-Projects
-A repo consisting random projects that I made in my free time using a popular Javascript library (Three.js) for 3D web graphics.
+A repo consisting random projects that I make in my free time using a popular Javascript library (Three.js) for 3D web graphics.
 
 ## Projects Inside 
 
